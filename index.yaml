@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  helm-chart-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-05-14T16:56:45.467353-07:00"
+    description: A Helm chart for Kubernetes
+    digest: e865ff86ca85f5523141608eb074eb71f0bc290041d8e059b159178ddd8d742a
+    icon: https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png
+    name: helm-chart-test
+    type: application
+    urls:
+    - https://liupeng69.github.io/helm-chart/helm-chart-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-05-14T16:56:45.466508-07:00"
